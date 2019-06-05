@@ -1790,8 +1790,9 @@ input, select, textarea {
 		line-height: 1.5em;
 	}
 
-	header.major h2 {
+	header.major h1 {
 		font-size: 2em;
+		text-align: center;
 	}
 
 /* Form */
